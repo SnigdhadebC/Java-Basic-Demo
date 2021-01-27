@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ÍõÔ¿ò.
+W	java:S125@"<This block of commented-out lines of code should be removed.(˜×Ø_8¦óİÀò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ¡â—üÿÿÿÿ8½Íå¿ò.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8¶ùÒÀò.
+i
+java:S1192"GDefine a constant instead of duplicating this literal "admin1" 4 times.(ò˜ıııÿÿÿÿ8Ä ÍÀò.
+X	java:S125"<This block of commented-out lines of code should be removed.(•³ì¿8ô¶ËÀò.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¼É‰Áò.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ú•€Ë8ÄùÜÀò.

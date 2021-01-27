@@ -1,0 +1,15 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ËÔÇîñ.
+s
+java:S1128"QRemove this unused import 'com.application.demo.exception.DataNotFoundException'.(ç¨“’üÿÿÿÿ8€Žåîñ.
+^
+java:S1128"<Remove this unused import 'com.application.demo.model.User'.(Ú¡ðŒÿÿÿÿÿ8ËÔÇîñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ€ÔÀýÿÿÿÿ8ÕÑ¶îñ.
+`
+java:S2166	"CRename this class to remove "Exception" or correct its inheritance.(ÔƒÜç8Ôï‰ìñ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ËÔÇîñ.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ü‚åÉúÿÿÿÿ8–—äîñ.
+]	java:S125"<This block of commented-out lines of code should be removed.(‹Î°¹úÿÿÿÿ8Ô‰Ùîñ.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ë Ÿ8šóãîñ.

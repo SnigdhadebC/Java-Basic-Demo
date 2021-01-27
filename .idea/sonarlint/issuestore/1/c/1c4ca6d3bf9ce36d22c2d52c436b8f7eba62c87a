@@ -1,0 +1,18 @@
+
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¸¯‘üÿÿÿÿ8ÈŸ¬–ò.
+]	java:S125$"<This block of commented-out lines of code should be removed.(Øø¼°ûÿÿÿÿ8Ì€½–ò.
+]	java:S125)"<This block of commented-out lines of code should be removed.(éØÈ¾üÿÿÿÿ8÷ßÊ–ò.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(“©±ùÿÿÿÿ8½—á–ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒå¬¹8ûë«•ò.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8‘±Ï–ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ8—Í¸•ò.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ë¨æ§ûÿÿÿÿ8·¢¦•ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷Õ¨Üúÿÿÿÿ8—Í¸•ò.
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(İ²´ 8Ñ”—ò.
+]	java:S125/"<This block of commented-out lines of code should be removed.(ê§°¯øÿÿÿÿ8Ü¤ó–ò.
+H
+java:S2175@",A "List<Integer>" cannot contain a "String".(İ²´ 8ÇŒ–—ò.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(•°êÉ8±ú——ò.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8–ò.

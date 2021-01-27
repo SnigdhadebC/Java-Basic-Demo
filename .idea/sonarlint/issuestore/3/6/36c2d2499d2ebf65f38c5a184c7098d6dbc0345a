@@ -1,0 +1,11 @@
+
+j
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(Ù¬€é8«­¢öï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İºÏİ8‡æ·öï.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(‹ë€ùÿÿÿÿ8ÉóÍöï.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(†Õ‡ñ8Ú†Åöï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñì¬å8¸Î‹öï.
+D
+java:S1444"'Make this "public static i" field final(Ù¬€é8Æ³³öï.
